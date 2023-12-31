@@ -1,4 +1,4 @@
-package moon.v1.performanceplanningcommunity;
+package moon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
